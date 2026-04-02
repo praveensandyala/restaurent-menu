@@ -1,0 +1,304 @@
+{
+  "restaurants": [
+    {
+      "id": "121603",
+      "name": "Kannur Food Point",
+      "cuisines": ["Kerala", "Chinese"],
+      "avgRating": 3.9,
+      "deliveryTime": 24,
+      "image": "https://content.jdmagicbox.com/v2/comp/bangalore/b8/080pxx80.xx80.190107210206.i2b8/catalogue/kannur-food-point-venkateshwara-layout-bangalore-take-away-joints-en9h9298f8-250.jpg",
+      "menu": [
+        {"name": "Kerala Parotta", "price": 120},
+        {"name": "Chicken Curry", "price": 220},
+        {"name": "Fish Fry", "price": 180},
+        {"name": "Beef Fry", "price": 250},
+        {"name": "Appam", "price": 90},
+        {"name": "Veg Stew", "price": 150},
+        {"name": "Chicken Roast", "price": 230},
+        {"name": "Egg Curry", "price": 140},
+        {"name": "Ghee Rice", "price": 130},
+        {"name": "Prawns Fry", "price": 280}
+      ]
+    },
+    {
+      "id": "229",
+      "name": "Meghana Foods",
+      "cuisines": ["Biryani", "Andhra", "Chinese"],
+      "avgRating": 4.4,
+      "deliveryTime": 16,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAFT5HPg6QBOrcQf0fKUNx5UbkqmPBux9aLQ&s",
+      "menu": [
+        {"name": "Paneer 65", "price": 320},
+        {"name": "Golden Baby Corn", "price": 300},
+        {"name": "Chilly Chicken", "price": 320},
+        {"name": "Chicken 555", "price": 325},
+        {"name": "Lemon Chicken", "price": 320},
+        {"name": "Chicken Lollipop", "price": 325},
+        {"name": "Butter Chicken", "price": 330},
+        {"name": "Paneer Butter Masala", "price": 320},
+        {"name": "Chicken Biryani", "price": 315},
+        {"name": "Mutton Biryani", "price": 425}
+      ]
+    },
+    {
+      "id": "428",
+      "name": "Biryani Pot",
+      "cuisines": ["North Indian", "Biryani"],
+      "avgRating": 3.9,
+      "deliveryTime": 19,
+      "image": "https://media.istockphoto.com/id/1318105869/photo/mughlai-cuisine-dum-biryani-or-rice-cooked-with-indian-spices-and-meat.jpg?s=612x612&w=0&k=20&c=Q3gh5H5XZIziGAe3tXvOsPZrRIK9Ju0Y7v3am1ZaZmo=",
+      "menu": [
+        {"name": "Hyderabadi Biryani", "price": 350},
+        {"name": "Chicken Dum Biryani", "price": 320},
+        {"name": "Egg Biryani", "price": 250},
+        {"name": "Veg Biryani", "price": 220},
+        {"name": "Paneer Biryani", "price": 300},
+        {"name": "Mutton Biryani", "price": 420},
+        {"name": "Chicken 65", "price": 260},
+        {"name": "Tandoori Chicken", "price": 340},
+        {"name": "Raita", "price": 60},
+        {"name": "Gulab Jamun", "price": 120}
+      ]
+    },
+    {
+      "id": "223",
+      "name": "Truffles",
+      "cuisines": ["American", "Desserts"],
+      "avgRating": 4.4,
+      "deliveryTime": 30,
+      "image": "https://content3.jdmagicbox.com/v2/comp/bangalore/i2/080pxx80.xx80.131226124024.h2i2/catalogue/truffles-koramangala-5th-block-bangalore-american-restaurants-wegry6lzbu.jpg",
+      "menu": [
+        {"name": "Classic Burger", "price": 250},
+        {"name": "Cheese Burger", "price": 280},
+        {"name": "Fries", "price": 150},
+        {"name": "Peri Peri Fries", "price": 180},
+        {"name": "Chicken Wings", "price": 260},
+        {"name": "Pasta Alfredo", "price": 300},
+        {"name": "Chocolate Shake", "price": 180},
+        {"name": "Brownie", "price": 200},
+        {"name": "Pizza", "price": 350},
+        {"name": "Cold Coffee", "price": 160}
+      ]
+    },
+    {
+      "id": "425",
+      "name": "Hotel Empire",
+      "cuisines": ["North Indian", "Kebabs"],
+      "avgRating": 4.1,
+      "deliveryTime": 23,
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/b2/8b/62/hotel-empire-restaurant.jpg?w=900&h=500&s=1",
+      "menu": [
+        {"name": "Chicken Kebab", "price": 280},
+        {"name": "Grill Chicken", "price": 350},
+        {"name": "Butter Chicken", "price": 320},
+        {"name": "Chicken Biryani", "price": 300},
+        {"name": "Mutton Biryani", "price": 400},
+        {"name": "Paneer Tikka", "price": 260},
+        {"name": "Tandoori Roti", "price": 40},
+        {"name": "Dal Fry", "price": 180},
+        {"name": "Veg Pulao", "price": 220},
+        {"name": "Falooda", "price": 150}
+      ]
+    },
+    {
+      "id": "201224",
+      "name": "Asha Tiffins",
+      "cuisines": ["South Indian"],
+      "avgRating": 4.4,
+      "deliveryTime": 26,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/hpncnz3sfv3gigsukkts",
+      "menu": [
+        {"name": "Masala Dosa", "price": 80},
+        {"name": "Plain Dosa", "price": 60},
+        {"name": "Idli", "price": 40},
+        {"name": "Vada", "price": 50},
+        {"name": "Upma", "price": 70},
+        {"name": "Pongal", "price": 80},
+        {"name": "Poori", "price": 90},
+        {"name": "Rava Dosa", "price": 90},
+        {"name": "Coffee", "price": 30},
+        {"name": "Tea", "price": 20}
+      ]
+    },
+    {
+      "id": "59593",
+      "name": "Al Daaz",
+      "cuisines": ["Arabian"],
+      "avgRating": 4.3,
+      "deliveryTime": 36,
+      "image": "https://b.zmtcdn.com/data/pictures/2/18608512/3e3abef457fdbf56f175b97029fa0f97.jpg?fit=around|750:500&crop=750:500;*,*",
+      "menu": [
+        {"name": "Al Faham Chicken", "price": 320},
+        {"name": "Mandi", "price": 400},
+        {"name": "Shawarma", "price": 120},
+        {"name": "Grilled Chicken", "price": 350},
+        {"name": "Chicken Kabsa", "price": 380},
+        {"name": "Hummus", "price": 150},
+        {"name": "Kuboos", "price": 40},
+        {"name": "Chicken Roll", "price": 130},
+        {"name": "Falafel", "price": 120},
+        {"name": "Laban", "price": 60}
+      ]
+    },
+    {
+      "id": "56589",
+      "name": "Roti-Wala",
+      "cuisines": ["North Indian"],
+      "avgRating": 4.2,
+      "deliveryTime": 22,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp_yDJiwCHEGQpYa8IckLrAO5IcNmPgIk1pg&s",
+      "menu": [
+        {"name": "Roti Combo", "price": 120},
+        {"name": "Paneer Curry", "price": 180},
+        {"name": "Dal Tadka", "price": 150},
+        {"name": "Jeera Rice", "price": 140},
+        {"name": "Butter Roti", "price": 40},
+        {"name": "Aloo Gobi", "price": 160},
+        {"name": "Chole", "price": 150},
+        {"name": "Rajma", "price": 160},
+        {"name": "Lassi", "price": 80},
+        {"name": "Gulab Jamun", "price": 100}
+      ]
+    },
+    {
+      "id": "560153",
+      "name": "Rice Bowl",
+      "cuisines": ["North Indian", "South Indian"],
+      "avgRating": 4.1,
+      "deliveryTime": 22,
+      "image": "https://b.zmtcdn.com/data/dish_photos/d6f/f54efe7ff4c957be3f80a4fa39d10d6f.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+      "menu": [
+        {"name": "Dal Rice", "price": 120},
+        {"name": "Chicken Rice Bowl", "price": 220},
+        {"name": "Paneer Rice Bowl", "price": 200},
+        {"name": "Veg Fried Rice", "price": 180},
+        {"name": "Egg Fried Rice", "price": 190},
+        {"name": "Chicken Fried Rice", "price": 220},
+        {"name": "Curd Rice", "price": 100},
+        {"name": "Sambar Rice", "price": 120},
+        {"name": "Lemon Rice", "price": 110},
+        {"name": "Pickle", "price": 40}
+      ]
+    },
+    {
+      "id": "337335",
+      "name": "Kannur Food Kitchen",
+      "cuisines": ["Kerala"],
+      "avgRating": 3.8,
+      "deliveryTime": 25,
+      "image": "https://b.zmtcdn.com/data/pictures/chains/4/19535924/6f2cdcc02306a8578d360b23e8da2821.jpeg?fit=around|750:500&crop=750:500;*,*",
+      "menu": [
+        {"name": "Kerala Meals", "price": 150},
+        {"name": "Beef Fry", "price": 250},
+        {"name": "Chicken Biryani", "price": 220},
+        {"name": "Fish Curry", "price": 200},
+        {"name": "Appam", "price": 90},
+        {"name": "Egg Roast", "price": 140},
+        {"name": "Puttu", "price": 100},
+        {"name": "Kadala Curry", "price": 120},
+        {"name": "Tea", "price": 20},
+        {"name": "Coffee", "price": 30}
+      ]
+    },
+    {
+      "id": "601",
+      "name": "Litti Twist",
+      "cuisines": ["North Indian"],
+      "avgRating": 4.2,
+      "deliveryTime": 28,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzNqBKczWxvjGUiGFeAXKO2sNHTblWWBkmw&s",
+      "menu": [
+        {"name": "Litti Chokha", "price": 150},
+        {"name": "Stuffed Litti", "price": 180},
+        {"name": "Paneer Litti", "price": 200},
+        {"name": "Chole Litti", "price": 170},
+        {"name": "Sattu Drink", "price": 80},
+        {"name": "Aloo Chokha", "price": 120},
+        {"name": "Mix Veg", "price": 150},
+        {"name": "Roti", "price": 30},
+        {"name": "Dal Fry", "price": 140},
+        {"name": "Sweet Litti", "price": 160}
+      ]
+    },
+    {
+      "id": "256957",
+      "name": "Shanmukha Restaurant",
+      "cuisines": ["Biryani", "Andhra"],
+      "avgRating": 4.1,
+      "deliveryTime": 36,
+      "image": "https://b.zmtcdn.com/data/pictures/chains/5/52015/563aaff597dc6522c92ad02ee1253712_featured_v2.jpg?fit=around|750:500&crop=750:500;*,*",
+      "menu": [
+        {"name": "Special Biryani", "price": 350},
+        {"name": "Chicken Fry", "price": 280},
+        {"name": "Mutton Fry", "price": 380},
+        {"name": "Andhra Meals", "price": 200},
+        {"name": "Chicken Curry", "price": 260},
+        {"name": "Egg Curry", "price": 140},
+        {"name": "Paneer Curry", "price": 220},
+        {"name": "Roti", "price": 30},
+        {"name": "Rice", "price": 80},
+        {"name": "Sweet", "price": 100}
+      ]
+    },
+    {
+      "id": "642459",
+      "name": "Malnad Donne Biryani",
+      "cuisines": ["Biryani"],
+      "avgRating": 3.9,
+      "deliveryTime": 36,
+      "image": "https://b.zmtcdn.com/data/pictures/0/20315990/1993555fc8c8e2c6b0008c4eed922e8d.jpg",
+      "menu": [
+        {"name": "Donne Biryani", "price": 200},
+        {"name": "Chicken Fry", "price": 220},
+        {"name": "Mutton Donne", "price": 300},
+        {"name": "Egg Biryani", "price": 180},
+        {"name": "Chicken Kebab", "price": 240},
+        {"name": "Raita", "price": 40},
+        {"name": "Gravy", "price": 60},
+        {"name": "Rice", "price": 80},
+        {"name": "Water Bottle", "price": 20},
+        {"name": "Sweet", "price": 90}
+      ]
+    },
+    {
+      "id": "27643",
+      "name": "Ultimate Parathas",
+      "cuisines": ["North Indian"],
+      "avgRating": 4.2,
+      "deliveryTime": 29,
+      "image": "https://lh3.googleusercontent.com/IYpH8TMwITZvwD5NgfhM3JE3e58GKjcNLYrMwdwubRQwUIXjQ8zKQBtAhfVKfIKFzzg7BSpZh5zXyVumaGV1sQMXoyKACORA_VSXzWmC=w300-rw",
+      "menu": [
+        {"name": "Aloo Paratha", "price": 120},
+        {"name": "Paneer Paratha", "price": 150},
+        {"name": "Gobhi Paratha", "price": 140},
+        {"name": "Mix Paratha", "price": 160},
+        {"name": "Curd", "price": 50},
+        {"name": "Butter", "price": 30},
+        {"name": "Pickle", "price": 20},
+        {"name": "Lassi", "price": 80},
+        {"name": "Tea", "price": 20},
+        {"name": "Coffee", "price": 30}
+      ]
+    },
+    {
+      "id": "42294",
+      "name": "Udupi Palace",
+      "cuisines": ["South Indian"],
+      "avgRating": 4.2,
+      "deliveryTime": 30,
+      "image": "https://tb-static.uber.com/prod/image-proc/processed_images/d46b9541871c8aef91b756c8ea9de74f/c9252e6c6cd289c588c3381bc77b1dfc.jpeg",
+      "menu": [
+        {"name": "Plain Dosa", "price": 60},
+        {"name": "Masala Dosa", "price": 80},
+        {"name": "Idli", "price": 40},
+        {"name": "Vada", "price": 50},
+        {"name": "Upma", "price": 70},
+        {"name": "Rava Dosa", "price": 90},
+        {"name": "Pongal", "price": 80},
+        {"name": "Meals", "price": 120},
+        {"name": "Coffee", "price": 30},
+        {"name": "Tea", "price": 20}
+      ]
+    }
+  ]
+}
