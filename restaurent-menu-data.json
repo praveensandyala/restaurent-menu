@@ -18,6 +18,39 @@
         {"name": "Egg Curry", "price": 140},
         {"name": "Ghee Rice", "price": 130},
         {"name": "Prawns Fry", "price": 280}
+      ],
+      "categories": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {"name": "Kerala Parotta", "price": 120},
+            {"name": "Chicken Curry", "price": 220},
+            {"name": "Prawns Fry", "price": 280}
+          ]
+        },
+        {
+          "title": "Kerala Specials",
+          "itemCards": [
+            {"name": "Appam", "price": 90},
+            {"name": "Veg Stew", "price": 150},
+            {"name": "Ghee Rice", "price": 130}
+          ]
+        },
+        {
+          "title": "Fry And Roast",
+          "itemCards": [
+            {"name": "Fish Fry", "price": 180},
+            {"name": "Beef Fry", "price": 250},
+            {"name": "Chicken Roast", "price": 230}
+          ]
+        },
+        {
+          "title": "Curries",
+          "itemCards": [
+            {"name": "Chicken Curry", "price": 220},
+            {"name": "Egg Curry", "price": 140}
+          ]
+        }
       ]
     },
     {
@@ -38,6 +71,41 @@
         {"name": "Paneer Butter Masala", "price": 320},
         {"name": "Chicken Biryani", "price": 315},
         {"name": "Mutton Biryani", "price": 425}
+      ],
+      "categories": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {"name": "Chicken Biryani", "price": 315},
+            {"name": "Butter Chicken", "price": 330},
+            {"name": "Paneer 65", "price": 320}
+          ]
+        },
+        {
+          "title": "Starters",
+          "itemCards": [
+            {"name": "Paneer 65", "price": 320},
+            {"name": "Golden Baby Corn", "price": 300},
+            {"name": "Chilly Chicken", "price": 320},
+            {"name": "Chicken 555", "price": 325},
+            {"name": "Lemon Chicken", "price": 320},
+            {"name": "Chicken Lollipop", "price": 325}
+          ]
+        },
+        {
+          "title": "Curries",
+          "itemCards": [
+            {"name": "Butter Chicken", "price": 330},
+            {"name": "Paneer Butter Masala", "price": 320}
+          ]
+        },
+        {
+          "title": "Biryani",
+          "itemCards": [
+            {"name": "Chicken Biryani", "price": 315},
+            {"name": "Mutton Biryani", "price": 425}
+          ]
+        }
       ]
     },
     {
@@ -58,6 +126,41 @@
         {"name": "Tandoori Chicken", "price": 340},
         {"name": "Raita", "price": 60},
         {"name": "Gulab Jamun", "price": 120}
+      ],
+      "categories": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {"name": "Hyderabadi Biryani", "price": 350},
+            {"name": "Tandoori Chicken", "price": 340},
+            {"name": "Gulab Jamun", "price": 120}
+          ]
+        },
+        {
+          "title": "Biryani Variety",
+          "itemCards": [
+            {"name": "Hyderabadi Biryani", "price": 350},
+            {"name": "Chicken Dum Biryani", "price": 320},
+            {"name": "Egg Biryani", "price": 250},
+            {"name": "Veg Biryani", "price": 220},
+            {"name": "Paneer Biryani", "price": 300},
+            {"name": "Mutton Biryani", "price": 420}
+          ]
+        },
+        {
+          "title": "Starters And Sides",
+          "itemCards": [
+            {"name": "Chicken 65", "price": 260},
+            {"name": "Tandoori Chicken", "price": 340},
+            {"name": "Raita", "price": 60}
+          ]
+        },
+        {
+          "title": "Dessert",
+          "itemCards": [
+            {"name": "Gulab Jamun", "price": 120}
+          ]
+        }
       ]
     },
     {
@@ -78,6 +181,40 @@
         {"name": "Brownie", "price": 200},
         {"name": "Pizza", "price": 350},
         {"name": "Cold Coffee", "price": 160}
+      ],
+      "categories": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {"name": "Cheese Burger", "price": 280},
+            {"name": "Pasta Alfredo", "price": 300},
+            {"name": "Brownie", "price": 200}
+          ]
+        },
+        {
+          "title": "Burgers And Pizza",
+          "itemCards": [
+            {"name": "Classic Burger", "price": 250},
+            {"name": "Cheese Burger", "price": 280},
+            {"name": "Pizza", "price": 350}
+          ]
+        },
+        {
+          "title": "Snacks",
+          "itemCards": [
+            {"name": "Fries", "price": 150},
+            {"name": "Peri Peri Fries", "price": 180},
+            {"name": "Chicken Wings", "price": 260}
+          ]
+        },
+        {
+          "title": "Drinks And Desserts",
+          "itemCards": [
+            {"name": "Chocolate Shake", "price": 180},
+            {"name": "Brownie", "price": 200},
+            {"name": "Cold Coffee", "price": 160}
+          ]
+        }
       ]
     },
     {
@@ -98,6 +235,41 @@
         {"name": "Dal Fry", "price": 180},
         {"name": "Veg Pulao", "price": 220},
         {"name": "Falooda", "price": 150}
+      ],
+      "categories": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {"name": "Grill Chicken", "price": 350},
+            {"name": "Chicken Biryani", "price": 300},
+            {"name": "Falooda", "price": 150}
+          ]
+        },
+        {
+          "title": "Kebabs And Grills",
+          "itemCards": [
+            {"name": "Chicken Kebab", "price": 280},
+            {"name": "Grill Chicken", "price": 350},
+            {"name": "Paneer Tikka", "price": 260}
+          ]
+        },
+        {
+          "title": "Curries And Rice",
+          "itemCards": [
+            {"name": "Butter Chicken", "price": 320},
+            {"name": "Chicken Biryani", "price": 300},
+            {"name": "Mutton Biryani", "price": 400},
+            {"name": "Veg Pulao", "price": 220}
+          ]
+        },
+        {
+          "title": "Sides And Dessert",
+          "itemCards": [
+            {"name": "Tandoori Roti", "price": 40},
+            {"name": "Dal Fry", "price": 180},
+            {"name": "Falooda", "price": 150}
+          ]
+        }
       ]
     },
     {
@@ -118,6 +290,41 @@
         {"name": "Rava Dosa", "price": 90},
         {"name": "Coffee", "price": 30},
         {"name": "Tea", "price": 20}
+      ],
+      "categories": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {"name": "Masala Dosa", "price": 80},
+            {"name": "Pongal", "price": 80},
+            {"name": "Coffee", "price": 30}
+          ]
+        },
+        {
+          "title": "Dosa Corner",
+          "itemCards": [
+            {"name": "Masala Dosa", "price": 80},
+            {"name": "Plain Dosa", "price": 60},
+            {"name": "Rava Dosa", "price": 90}
+          ]
+        },
+        {
+          "title": "Breakfast Classics",
+          "itemCards": [
+            {"name": "Idli", "price": 40},
+            {"name": "Vada", "price": 50},
+            {"name": "Upma", "price": 70},
+            {"name": "Pongal", "price": 80}
+          ]
+        },
+        {
+          "title": "Beverages And Extras",
+          "itemCards": [
+            {"name": "Poori", "price": 90},
+            {"name": "Coffee", "price": 30},
+            {"name": "Tea", "price": 20}
+          ]
+        }
       ]
     },
     {
@@ -138,6 +345,41 @@
         {"name": "Chicken Roll", "price": 130},
         {"name": "Falafel", "price": 120},
         {"name": "Laban", "price": 60}
+      ],
+      "categories": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {"name": "Mandi", "price": 400},
+            {"name": "Al Faham Chicken", "price": 320},
+            {"name": "Shawarma", "price": 120}
+          ]
+        },
+        {
+          "title": "Arabian Platters",
+          "itemCards": [
+            {"name": "Al Faham Chicken", "price": 320},
+            {"name": "Mandi", "price": 400},
+            {"name": "Chicken Kabsa", "price": 380}
+          ]
+        },
+        {
+          "title": "Wraps And Grills",
+          "itemCards": [
+            {"name": "Shawarma", "price": 120},
+            {"name": "Grilled Chicken", "price": 350},
+            {"name": "Chicken Roll", "price": 130}
+          ]
+        },
+        {
+          "title": "Sides And Drinks",
+          "itemCards": [
+            {"name": "Hummus", "price": 150},
+            {"name": "Kuboos", "price": 40},
+            {"name": "Falafel", "price": 120},
+            {"name": "Laban", "price": 60}
+          ]
+        }
       ]
     },
     {
@@ -158,6 +400,41 @@
         {"name": "Rajma", "price": 160},
         {"name": "Lassi", "price": 80},
         {"name": "Gulab Jamun", "price": 100}
+      ],
+      "categories": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {"name": "Roti Combo", "price": 120},
+            {"name": "Paneer Curry", "price": 180},
+            {"name": "Gulab Jamun", "price": 100}
+          ]
+        },
+        {
+          "title": "Breads",
+          "itemCards": [
+            {"name": "Roti Combo", "price": 120},
+            {"name": "Butter Roti", "price": 40}
+          ]
+        },
+        {
+          "title": "Curries And Mains",
+          "itemCards": [
+            {"name": "Paneer Curry", "price": 180},
+            {"name": "Dal Tadka", "price": 150},
+            {"name": "Aloo Gobi", "price": 160},
+            {"name": "Chole", "price": 150},
+            {"name": "Rajma", "price": 160}
+          ]
+        },
+        {
+          "title": "Rice And Drinks",
+          "itemCards": [
+            {"name": "Jeera Rice", "price": 140},
+            {"name": "Lassi", "price": 80},
+            {"name": "Gulab Jamun", "price": 100}
+          ]
+        }
       ]
     },
     {
@@ -178,6 +455,41 @@
         {"name": "Sambar Rice", "price": 120},
         {"name": "Lemon Rice", "price": 110},
         {"name": "Pickle", "price": 40}
+      ],
+      "categories": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {"name": "Chicken Rice Bowl", "price": 220},
+            {"name": "Paneer Rice Bowl", "price": 200},
+            {"name": "Curd Rice", "price": 100}
+          ]
+        },
+        {
+          "title": "Rice Bowls",
+          "itemCards": [
+            {"name": "Dal Rice", "price": 120},
+            {"name": "Chicken Rice Bowl", "price": 220},
+            {"name": "Paneer Rice Bowl", "price": 200}
+          ]
+        },
+        {
+          "title": "Fried Rice",
+          "itemCards": [
+            {"name": "Veg Fried Rice", "price": 180},
+            {"name": "Egg Fried Rice", "price": 190},
+            {"name": "Chicken Fried Rice", "price": 220}
+          ]
+        },
+        {
+          "title": "Comfort Rice",
+          "itemCards": [
+            {"name": "Curd Rice", "price": 100},
+            {"name": "Sambar Rice", "price": 120},
+            {"name": "Lemon Rice", "price": 110},
+            {"name": "Pickle", "price": 40}
+          ]
+        }
       ]
     },
     {
@@ -198,6 +510,41 @@
         {"name": "Kadala Curry", "price": 120},
         {"name": "Tea", "price": 20},
         {"name": "Coffee", "price": 30}
+      ],
+      "categories": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {"name": "Kerala Meals", "price": 150},
+            {"name": "Beef Fry", "price": 250},
+            {"name": "Appam", "price": 90}
+          ]
+        },
+        {
+          "title": "Kerala Staples",
+          "itemCards": [
+            {"name": "Kerala Meals", "price": 150},
+            {"name": "Appam", "price": 90},
+            {"name": "Puttu", "price": 100}
+          ]
+        },
+        {
+          "title": "Curries And Fry",
+          "itemCards": [
+            {"name": "Beef Fry", "price": 250},
+            {"name": "Fish Curry", "price": 200},
+            {"name": "Egg Roast", "price": 140},
+            {"name": "Kadala Curry", "price": 120}
+          ]
+        },
+        {
+          "title": "Rice And Beverages",
+          "itemCards": [
+            {"name": "Chicken Biryani", "price": 220},
+            {"name": "Tea", "price": 20},
+            {"name": "Coffee", "price": 30}
+          ]
+        }
       ]
     },
     {
@@ -218,6 +565,41 @@
         {"name": "Roti", "price": 30},
         {"name": "Dal Fry", "price": 140},
         {"name": "Sweet Litti", "price": 160}
+      ],
+      "categories": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {"name": "Litti Chokha", "price": 150},
+            {"name": "Paneer Litti", "price": 200},
+            {"name": "Sweet Litti", "price": 160}
+          ]
+        },
+        {
+          "title": "Litti Special",
+          "itemCards": [
+            {"name": "Litti Chokha", "price": 150},
+            {"name": "Stuffed Litti", "price": 180},
+            {"name": "Paneer Litti", "price": 200},
+            {"name": "Chole Litti", "price": 170},
+            {"name": "Sweet Litti", "price": 160}
+          ]
+        },
+        {
+          "title": "Sides",
+          "itemCards": [
+            {"name": "Sattu Drink", "price": 80},
+            {"name": "Aloo Chokha", "price": 120},
+            {"name": "Roti", "price": 30}
+          ]
+        },
+        {
+          "title": "Veg Dishes",
+          "itemCards": [
+            {"name": "Mix Veg", "price": 150},
+            {"name": "Dal Fry", "price": 140}
+          ]
+        }
       ]
     },
     {
@@ -238,6 +620,41 @@
         {"name": "Roti", "price": 30},
         {"name": "Rice", "price": 80},
         {"name": "Sweet", "price": 100}
+      ],
+      "categories": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {"name": "Special Biryani", "price": 350},
+            {"name": "Chicken Fry", "price": 280},
+            {"name": "Andhra Meals", "price": 200}
+          ]
+        },
+        {
+          "title": "Biryani And Meals",
+          "itemCards": [
+            {"name": "Special Biryani", "price": 350},
+            {"name": "Andhra Meals", "price": 200}
+          ]
+        },
+        {
+          "title": "Fry Items",
+          "itemCards": [
+            {"name": "Chicken Fry", "price": 280},
+            {"name": "Mutton Fry", "price": 380}
+          ]
+        },
+        {
+          "title": "Curries And Sides",
+          "itemCards": [
+            {"name": "Chicken Curry", "price": 260},
+            {"name": "Egg Curry", "price": 140},
+            {"name": "Paneer Curry", "price": 220},
+            {"name": "Roti", "price": 30},
+            {"name": "Rice", "price": 80},
+            {"name": "Sweet", "price": 100}
+          ]
+        }
       ]
     },
     {
@@ -258,6 +675,41 @@
         {"name": "Rice", "price": 80},
         {"name": "Water Bottle", "price": 20},
         {"name": "Sweet", "price": 90}
+      ],
+      "categories": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {"name": "Donne Biryani", "price": 200},
+            {"name": "Mutton Donne", "price": 300},
+            {"name": "Chicken Kebab", "price": 240}
+          ]
+        },
+        {
+          "title": "Donne Biryani",
+          "itemCards": [
+            {"name": "Donne Biryani", "price": 200},
+            {"name": "Mutton Donne", "price": 300},
+            {"name": "Egg Biryani", "price": 180}
+          ]
+        },
+        {
+          "title": "Fry And Kebab",
+          "itemCards": [
+            {"name": "Chicken Fry", "price": 220},
+            {"name": "Chicken Kebab", "price": 240}
+          ]
+        },
+        {
+          "title": "Sides",
+          "itemCards": [
+            {"name": "Raita", "price": 40},
+            {"name": "Gravy", "price": 60},
+            {"name": "Rice", "price": 80},
+            {"name": "Water Bottle", "price": 20},
+            {"name": "Sweet", "price": 90}
+          ]
+        }
       ]
     },
     {
@@ -278,6 +730,41 @@
         {"name": "Lassi", "price": 80},
         {"name": "Tea", "price": 20},
         {"name": "Coffee", "price": 30}
+      ],
+      "categories": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {"name": "Paneer Paratha", "price": 150},
+            {"name": "Mix Paratha", "price": 160},
+            {"name": "Lassi", "price": 80}
+          ]
+        },
+        {
+          "title": "Parathas",
+          "itemCards": [
+            {"name": "Aloo Paratha", "price": 120},
+            {"name": "Paneer Paratha", "price": 150},
+            {"name": "Gobhi Paratha", "price": 140},
+            {"name": "Mix Paratha", "price": 160}
+          ]
+        },
+        {
+          "title": "Accompaniments",
+          "itemCards": [
+            {"name": "Curd", "price": 50},
+            {"name": "Butter", "price": 30},
+            {"name": "Pickle", "price": 20}
+          ]
+        },
+        {
+          "title": "Beverages",
+          "itemCards": [
+            {"name": "Lassi", "price": 80},
+            {"name": "Tea", "price": 20},
+            {"name": "Coffee", "price": 30}
+          ]
+        }
       ]
     },
     {
@@ -298,6 +785,41 @@
         {"name": "Meals", "price": 120},
         {"name": "Coffee", "price": 30},
         {"name": "Tea", "price": 20}
+      ],
+      "categories": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {"name": "Masala Dosa", "price": 80},
+            {"name": "Meals", "price": 120},
+            {"name": "Coffee", "price": 30}
+          ]
+        },
+        {
+          "title": "Dosa Varieties",
+          "itemCards": [
+            {"name": "Plain Dosa", "price": 60},
+            {"name": "Masala Dosa", "price": 80},
+            {"name": "Rava Dosa", "price": 90}
+          ]
+        },
+        {
+          "title": "Breakfast Items",
+          "itemCards": [
+            {"name": "Idli", "price": 40},
+            {"name": "Vada", "price": 50},
+            {"name": "Upma", "price": 70},
+            {"name": "Pongal", "price": 80}
+          ]
+        },
+        {
+          "title": "Meals And Beverages",
+          "itemCards": [
+            {"name": "Meals", "price": 120},
+            {"name": "Coffee", "price": 30},
+            {"name": "Tea", "price": 20}
+          ]
+        }
       ]
     }
   ]
